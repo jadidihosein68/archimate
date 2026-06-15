@@ -13,7 +13,7 @@
   <folder name="Views" id="id-b7b92d9b185f45a6a723658d9aeb655a" type="diagrams">
     <element xsi:type="archimate:ArchimateDiagramModel" name="Default View" id="id-3f3dccc15a0a43b6897a3e45a82bc334">
       <child xsi:type="archimate:DiagramObject" id="id-ef312a3d712d4f7497971950fa917f3b" archimateElement="id-9f2c745c2aba4b77b6a8fed9ad0c32a5">
-        <bounds x="348" y="168" width="120" height="55"/>
+        <bounds x="440" y="186" width="120" height="55"/>
       </child>
     </element>
   </folder>
